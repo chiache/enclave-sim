@@ -11,6 +11,6 @@ git submodule update --init
 Start with [riscv/riscv-poky](riscv/riscv-poky), and follow the instruction.
 
 
-## Software Guard Extension (Intel)
+## Software Guard Extensions (Intel)
 
 Not here yet.
