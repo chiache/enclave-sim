@@ -5,3 +5,7 @@
 	path = riscv/riscv-poky
 	url = https://github.com/chiache/riscv-poky
 	branch = working
+[submodule "riscv/riscv-isa-sim"]
+	path = riscv/riscv-isa-sim
+	url = https://github.com/chiache/riscv-isa-sim.git
+	branch = cache_trace
