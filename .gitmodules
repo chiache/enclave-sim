@@ -1,7 +1,7 @@
 [submodule "riscv/riscv-tools"]
 	path = riscv/riscv-tools
-	url = https://github.com/riscv/riscv-tools
+	url = https://github.com/chiache/riscv-tools
 [submodule "riscv/riscv-poky"]
 	path = riscv/riscv-poky
-	url = https://github.com/riscv/riscv-poky
-	branch = priv-1.10
+	url = https://github.com/chiache/riscv-poky
+	branch = working
