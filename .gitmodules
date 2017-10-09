@@ -12,7 +12,7 @@
 [submodule "riscv/riscv-glibc"]
 	path = riscv/riscv-glibc
 	url = https://github.com/chiache/riscv-glibc.git
-	branch = riscv-glibc-2.26
+	branch = match-with-firesim
 [submodule "riscv/riscv-linux"]
 	path = riscv/riscv-linux
 	url = https://github.com/chiache/riscv-linux.git
